@@ -106,7 +106,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["mydesk.hystars.net"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["desk.hystars.net"];
 pub const RS_PUB_KEY: &str = "3BWl2riH73dkS4K4OaYl1igR5P6ueQdyJSBkix8aOJg=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
